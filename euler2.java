@@ -2,7 +2,7 @@ class Euler_2
 {
 public static void main(String[] args) 
 {
-int fs=0;
+int fs=1;
 int sum=0;
 int f1=1,f11=0;
 int[] array=new int[40];
